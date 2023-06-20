@@ -1,1 +1,1 @@
-versi 5
+versi 2
